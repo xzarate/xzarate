@@ -52,6 +52,18 @@
 
 [![Medium](https://img.shields.io/badge/-Writeups%20@IgnoranzaSolare-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@IgnoranzaSolare)
 
+| Article | Topics |
+|---------|--------|
+| [Analisis Forense de Phishing](https://medium.com/@IgnoranzaSolare/an%C3%A1lisis-forense-de-phishing-b392de2a0d74) | Forensics, Phishing, Blue Team |
+| [Extraccion Masiva en Lote (Blue Team Labs)](https://medium.com/@IgnoranzaSolare/extracci%C3%B3n-masiva-en-lote-blue-team-labs-bd800f0c620b) | Blue Team, Python Scripting |
+| [OxFUN OSINT](https://medium.com/@IgnoranzaSolare/oxfun-osint-d780fdf6c1ec) | OSINT, CTF |
+| [Manipulacion de JWT y Control de Integridad](https://medium.com/@IgnoranzaSolare/manipulaci%C3%B3n-de-jwt-y-control-de-integridad-8c201b4a0af8) | Blue Team, JWT, Cryptography |
+| [Meta: El arte del engano en los metadatos](https://medium.com/@IgnoranzaSolare/meta-el-arte-del-enga%C3%B1o-en-los-metadatos-3e188767a6b7) | OSINT, Forensics, Metadata |
+| [TheReport (BlueTeamLabs)](https://medium.com/@IgnoranzaSolare/thereport-blueteamlabs-c1921f265495) | Threat Intelligence, Blue Team |
+| [Follina (BlueTeamLabs)](https://medium.com/@IgnoranzaSolare/follina-blueteamlabs-76040074e8a0) | CVE-2022-30190, Malware Analysis |
+| [Tomcat Takeover Lab (CyberDefenders)](https://medium.com/@IgnoranzaSolare/tomcat-takeover-lab-cyberdefenders-c35dece8a274) | Network Forensics, PCAP |
+| [YARA Trap Lab (CyberDefenders)](https://medium.com/@IgnoranzaSolare/yara-trap-lab-cyberdefenders-f24409e07f4e) | YARA Rules, Malware Detection |
+
 ---
 
 ### GitHub Stats
