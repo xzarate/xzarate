@@ -3,7 +3,6 @@
 **Cybersecurity Analyst** — CTI | DFIR | SOC
 
 > *"When do you think people die? It's when they are forgotten."*
-> — Dr. Hiluluk, One Piece
 
 ---
 
