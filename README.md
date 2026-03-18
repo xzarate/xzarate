@@ -34,9 +34,37 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Forensics & IR**
+
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/-Autopsy-333333?style=flat&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Volatility](https://img.shields.io/badge/-Volatility-4B0082?style=flat&logoColor=white)
+![FTK](https://img.shields.io/badge/-FTK-003366?style=flat&logoColor=white)
+![EnCase](https://img.shields.io/badge/-EnCase-8B0000?style=flat&logoColor=white)
+![KAPE](https://img.shields.io/badge/-KAPE-2F4F4F?style=flat&logoColor=white)
+
+**Network & Threat Detection**
+
+![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat&logoColor=white)
+![Zeek](https://img.shields.io/badge/-Zeek-E34F26?style=flat&logoColor=white)
+![Suricata](https://img.shields.io/badge/-Suricata-F28C28?style=flat&logoColor=white)
+![tcpdump](https://img.shields.io/badge/-tcpdump-333333?style=flat&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+
+**SIEM & Threat Intel**
+
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![QRadar](https://img.shields.io/badge/-QRadar-052FAD?style=flat&logo=ibm&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-3C99DC?style=flat&logoColor=white)
+![ELK](https://img.shields.io/badge/-ELK%20Stack-005571?style=flat&logo=elasticstack&logoColor=white)
+![MISP](https://img.shields.io/badge/-MISP-1A1A2E?style=flat&logoColor=white)
+![YARA](https://img.shields.io/badge/-YARA-333333?style=flat&logoColor=white)
+![OpenCTI](https://img.shields.io/badge/-OpenCTI-001B3D?style=flat&logoColor=white)
 
 ---
 
