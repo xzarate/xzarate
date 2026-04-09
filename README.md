@@ -82,6 +82,6 @@ Open-source work centered on practical cybersecurity tooling, investigations, an
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexiszarate/)
-[![X](https://img.shields.io/badge/X-%400xzarate-000000?style=flat&logo=x&logoColor=white)](https://x.com/0xzarate)
+[![X](https://img.shields.io/badge/X-%400xz4ra-000000?style=flat&logo=x&logoColor=white)](https://x.com/0xz4ra)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff88&height=110&section=footer"/>
