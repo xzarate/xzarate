@@ -28,6 +28,7 @@ I build practical security tooling, document investigations, and turn detection 
 | Certification | Issuer |
 | --- | --- |
 | **BTL1** - Blue Team Level 1 | [Security Blue Team](https://www.securityblue.team/) |
+| **CRTA** - Certified Red Team Analyst | [CyberWarFare Labs](https://cyberwarfare.live/) |
 
 ## Labs And Platforms
 
