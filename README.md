@@ -73,10 +73,7 @@ I build practical security tooling, document investigations, and turn detection 
 
 ## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xzarate&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=8b949e" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzarate&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=00ff88&text_color=8b949e" height="170" />
-</p>
+Open-source work centered on practical cybersecurity tooling, investigations, and blue team workflows.
 
 <p align="center">
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/xzarate/xzarate/output/github-snake-dark.svg" />
